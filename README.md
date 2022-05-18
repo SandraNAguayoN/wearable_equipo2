@@ -8,7 +8,7 @@
       <li>Medida de temperatura con el sensor</li>
       <li>Guardado de datos en Base de Datos.</li>
       <li>Desarrollo de aplicación móvil para mostrar datos.</li>
-      <li>Mostrar datos en aplicación.</li>
+      <li>Mostrar datos en la aplicación.</li>
     </ul>
   <li>Camara portable.</li>
     <ul>
@@ -22,11 +22,11 @@
       <li>Creación de archivo en formato de audio.</li>
       <li>Guardado de archivo en Memoria Micro SD.</li>
     </ul>
-  <li>Oxigenación en la sangre.</li>
+  <li>Detección de oxigenación en la sangre.</li>
       <ul>
-        <li>Detección de oxigeno en la sangre con sensor.</li>
+        <li>Detección de oxígeno en la sangre con sensor.</li>
         <li>Guardado de datos en Base de Datos.</li>
         <li>Desarrollo de aplicación móvil para mostrar datos.</li>
-        <li>Mostrar datos en aplicación.</li>
+        <li>Mostrar datos en la aplicación.</li>
     </ul>
 </ol>
