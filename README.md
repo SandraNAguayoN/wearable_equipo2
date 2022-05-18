@@ -5,7 +5,7 @@
 <ol>
   <li>Detección de temperatura.</li>
     <ul>
-      <li>Medida de temperatura con el sensor<li>
+      <li>Medida de temperatura con el sensor</li>
       <li>Guardado de datos en Base de Datos.</li>
       <li>Mostrar alerta de temperatura.</li>
     </ul>
