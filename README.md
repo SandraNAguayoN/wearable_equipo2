@@ -7,9 +7,26 @@
     <ul>
       <li>Medida de temperatura con el sensor</li>
       <li>Guardado de datos en Base de Datos.</li>
-      <li>Mostrar alerta de temperatura.</li>
+      <li>Desarrollo de aplicación móvil para mostrar datos.</li>
+      <li>Mostrar datos en aplicación.</li>
     </ul>
   <li>Camara portable.</li>
+    <ul>
+      <li>Captura de imagen con cámara.</li>
+      <li>Captura de archivo en formato de imagen.</li>
+      <li>Guardado de archivo en Memoria Micro SD.</li>
+    </ul>
   <li>Grabador de audio.</li>
+    <ul>
+      <li>Grabación de audio con sensor.</li>
+      <li>Creación de archivo en formato de audio.</li>
+      <li>Guardado de archivo en Memoria Micro SD.</li>
+    </ul>
   <li>Oxigenación en la sangre.</li>
+      <ul>
+        <li>Detección de oxigeno en la sangre con sensor.</li>
+        <li>Guardado de datos en Base de Datos.</li>
+        <li>Desarrollo de aplicación móvil para mostrar datos.</li>
+        <li>Mostrar datos en aplicación.</li>
+    </ul>
 </ol>
