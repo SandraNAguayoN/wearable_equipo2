@@ -8,7 +8,7 @@
     <li>
       <a href="#acerca-del-proyecto">Acerca Del Proyecto</a>
       <ul>
-         <li>Objetivo</li>
+        <li><a href="#objetivo">Objetivo</a></li>
          <li>Material de uso</li>
          <li>Requerimientos</li>
          <li>Diagrama inicial</li>
@@ -137,11 +137,11 @@
 
 #### Diagrama inicial
 
-![image](https://user-images.githubusercontent.com/96089377/165986643-432dfef7-ffff-4755-a768-ecdb5e8252b4.png)
+
 
 ### Prototipo de Pulsera Multiusos
 
-![imagen](https://user-images.githubusercontent.com/36056832/166520964-2165f99c-b8d2-48a4-a73e-a8643ec4cf40.png)
+
 
 
 ## Participantes
