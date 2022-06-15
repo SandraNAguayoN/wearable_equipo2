@@ -145,6 +145,7 @@
 
 ### Diagrama inicial
 
+<img width="418" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/66137245/173940027-4eca0c9a-6b04-4432-b782-c9031561b253.png">
 
 
 ### Prototipo de Pulsera Multiusos
