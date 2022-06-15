@@ -74,7 +74,7 @@
   <tr>
     <td>Sensor de Oxigenación </td>
     <td>
-    <img src="![image](https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png)
+    <img src="https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png
 " width="100"/>
     </td>
     <td> <ul><li>Tensión de Alimentación: 3.3V a 5V<li>Longitud Máxima de Onda LED: 660nm/880nm<li>Corriente de trabajo: 60mA<li>Tipo de detección: PPG (Reflexión de luz)<li>Interface de salida: I2C<li>Dimensiones:21 mm x 15mm<li>ADC delta sigma de hasta 16 bits</ul></td>
