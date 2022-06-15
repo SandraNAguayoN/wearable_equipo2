@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>Medición de variables a partir de sensores de temperatura, humedad, ...</td>
+    <td>Medición de variables a partir de sensores de temperatura, humedad.</td>
   </tr>
   
   <tr>
@@ -99,7 +99,12 @@
   
   <tr>
     <td>3</td>
-    <td>Mostrar los datos almacenados para su análisis en línea</td>
+    <td>Mostrar los datos en una panta OLED</td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>Captura de foto y almacenarlas de manera local</td>
   </tr>
 </table>
 
