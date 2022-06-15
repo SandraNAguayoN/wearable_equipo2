@@ -149,6 +149,7 @@
 
 ### Prototipo de Pulsera Multiusos
 
+![20220615_160804](https://user-images.githubusercontent.com/66137245/173930984-edf76901-97c5-4d37-9128-2df23b9e2164.jpg)
 
 
 
