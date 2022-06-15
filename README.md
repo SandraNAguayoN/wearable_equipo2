@@ -9,9 +9,9 @@
       <a href="#acerca-del-proyecto">Acerca Del Proyecto</a>
       <ul>
         <li><a href="#objetivo">Objetivo</a></li>
-         <li>Material de uso</li>
-         <li>Requerimientos</li>
-         <li>Diagrama inicial</li>
+        <li><a href="#material-de-uso">Material de uso</a></li>
+        <li><a href="#requerimientos">Requerimientos</a></li>
+         <li><a href="#diagrama-inicial">Diagrama inicial</a></li>
       </ul>
     </li>
     <li>
@@ -135,7 +135,10 @@
 </ol>
 
 
-#### Diagrama inicial
+
+
+
+### Diagrama inicial
 
 
 
