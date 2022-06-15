@@ -65,7 +65,8 @@
   <tr>
     <td>Pantalla OLED SSD1306</td>
     <td>
-    <img src="https://user-images.githubusercontent.com/36056832/165996618-0b719509-9c81-405a-bef5-aabef6623a2b.png" alt="DHT11" width="100"/>
+    <img src="![image](https://user-images.githubusercontent.com/28987470/173898074-3669ca53-a985-4243-b21e-d4180c152393.png)
+" alt="OLED" width="100"/>
     </td>
     <td> <ul><li>Alimentación: 3.3 ~ 5 V<li>Rango de medición de temperatura: 0 ~ 50 °C<li>Precisión de medición de temperatura: ± 2.0 °C<li>Resolución Temperatura: 0.1 °C<li>Rango de medición de humedad: 20 % ~ 90 % RH<li>Precisión de medición de humedad: 4 % RH<li>Resolución Humedad: 1 % RH<li>Salida digital<li>Orificio de perno fijo para una fácil instalación</ul></td>
     <td>1</td>
@@ -73,9 +74,10 @@
   <tr>
     <td>Sensor de Oxigenación </td>
     <td>
-    <img src="https://user-images.githubusercontent.com/36056832/165996618-0b719509-9c81-405a-bef5-aabef6623a2b.png" alt="DHT11" width="100"/>
+    <img src="![image](https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png)
+" width="100"/>
     </td>
-    <td> <ul><li>Alimentación: 3.3 ~ 5 V<li>Rango de medición de temperatura: 0 ~ 50 °C<li>Precisión de medición de temperatura: ± 2.0 °C<li>Resolución Temperatura: 0.1 °C<li>Rango de medición de humedad: 20 % ~ 90 % RH<li>Precisión de medición de humedad: 4 % RH<li>Resolución Humedad: 1 % RH<li>Salida digital<li>Orificio de perno fijo para una fácil instalación</ul></td>
+    <td> <ul><li>Tensión de Alimentación: 3.3V a 5V<li>Longitud Máxima de Onda LED: 660nm/880nm<li>Corriente de trabajo: 60mA<li>Tipo de detección: PPG (Reflexión de luz)<li>Interface de salida: I2C<li>Dimensiones:21 mm x 15mm<li>ADC delta sigma de hasta 16 bits</ul></td>
     <td>1</td>
   </tr> 
 
