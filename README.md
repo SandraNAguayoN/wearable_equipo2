@@ -168,6 +168,8 @@
 ## Prototipo de Pulsera Multiusos
 ![Prototipo_Pulsera Multiusos](https://user-images.githubusercontent.com/66137245/173940626-04c02b57-fbf7-4492-ba3c-018ed4d66c6d.jpg)
 
+## Tablero
+![Tablero Trello](https://trello.com/b/qvzCt7Np/pulsera-multiusos)
 
 ## Participantes
 * [Aguayo Nuñez Sandra ]()
