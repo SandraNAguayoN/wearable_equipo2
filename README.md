@@ -8,11 +8,30 @@
     <li>
       <a href="#acerca-del-proyecto">Acerca Del Proyecto</a>
       <ul>
-        <li><a href="#objetivo">Objetivo</a></li>
-        <li><a href="#material-de-uso">Material de uso</a></li>
-        <li><a href="#requerimientos">Requerimientos</a></li>
-         <li><a href="#diagrama-inicial">Diagrama inicial</a></li>
+        <li><a href="#nombre-del-proyecto">Nombre del proyecto</a></li>
+        <li><a href="#descripcion-general-del-proyecto">Descripción general del proyecto</a></li>
       </ul>
+    </li>
+    <li>
+        <a href="#objetivo-del-proyecto">Objetivo del proyecto</a>
+    </li>
+    <li>
+        <a href="#vision-del-proyecto">Visión del proyecto</a>
+    </li>
+    <li>
+        <a href="#material-de-uso">Material de uso</a>
+    </li>
+    <li>
+        <a href="#epicas">Épicas</a>
+    </li>
+    <li>
+        <a href="#requerimientos">Requerimientos</a>
+    </li>
+    <li>
+        <a href="#diagrama-inicial">Diagrama inicial</a>
+    </li>
+    <li>
+        <a href="#prototipo-de-pulsera-multiusos">Prototipo de Pulsera Multiusos</a>
     </li>
     <li>
       <a href="#participantes">Participantes</a>
@@ -29,13 +48,13 @@
 ### Descripción general del proyecto
 > Este proyecto consiste generar un prototipo que propone ser un accesorio tecnológico para las personas, de forma que recolecte datos a través de los distintos sensores, y los use para su posterior análisis validando decisiones del usuario.
 
-### Objetivo del proyecto
+## Objetivo del proyecto
 > El objetivo del proyecto es fabricar un accesorio de uso personal el cual es una pulsera tecnológica que permita a los usuarios medir la temperatura, humedad y oxigenación en la sangre, guardando todo estos datos y mostrandolos en una pequeña pantalla, de la misma forma el usuario podrá acceder a una aplicación web en línea con sus credenciales, en la cual podrá visualizar los datos mencionados en tiempo real.
 
-### Visión del proyecto
+## Visión del proyecto
 > 
 
-### Material de uso:
+## Material de uso:
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr>
   <tr>
     <td>Raspberry Pi 4</td>
@@ -81,7 +100,7 @@
 </table>
 
 
-### Épicas
+## Épicas
 <p>Pulsera de uso personal con multiples funciones que recopilan información relevante para el usuario.</p>
 <p>Esta contendrá las siguientes funcionalidades:</p>
 <ol>
@@ -114,7 +133,7 @@
 
 
 
-#### Requerimientos
+## Requerimientos
 <table>
   <tr>
     <th>No.</th>
@@ -142,11 +161,11 @@
 </table>
 
 
-### Diagrama inicial
+## Diagrama inicial
 <img width="418" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/66137245/173940027-4eca0c9a-6b04-4432-b782-c9031561b253.png">
 
 
-### Prototipo de Pulsera Multiusos
+## Prototipo de Pulsera Multiusos
 ![Prototipo_Pulsera Multiusos](https://user-images.githubusercontent.com/66137245/173940626-04c02b57-fbf7-4492-ba3c-018ed4d66c6d.jpg)
 
 
