@@ -29,10 +29,8 @@
 ### Descripción general del proyecto
 > Este proyecto consiste generar un prototipo que propone ser un accesorio tecnológico para las personas, de forma que recolecte datos a través de los distintos sensores, y los use para su posterior análisis validando decisiones del usuario.
 
-
 ### Objetivo
-
-> .
+> El objetivo del proyecto es fabricar un accesorio de uso personal el cual es una pulsera tecnológica que permita a los usuarios medir la temperatura, humedad y oxigenación en la sangre, guardando todo estos datos y mostrandolos en una pequeña pantalla, de la misma forma el usuario podrá acceder a una aplicación web en línea con sus credenciales, en la cual podrá visualizar los datos mencionados en tiempo real.
 
 
 ### Material de uso:
