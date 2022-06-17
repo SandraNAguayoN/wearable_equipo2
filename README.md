@@ -52,7 +52,7 @@
 > El objetivo del proyecto es fabricar un accesorio de uso personal el cual es una pulsera tecnológica que permita a los usuarios medir la temperatura, humedad y oxigenación en la sangre, guardando todo estos datos y mostrandolos en una pequeña pantalla, de la misma forma el usuario podrá acceder a una aplicación web en línea con sus credenciales, en la cual podrá visualizar los datos mencionados en tiempo real.
 
 ## Visión del proyecto
-> 
+> Nuestra visión llegar a ser una empresa líder en la fabricación y distribución de accesorios tecnológicos de uso personal a nivel regional en el municipio de Dolores Hidalgo para después expandirnos a nivel estatal en el estado de Guanajuato y por consecuencia a nivel nacional ne México.
 
 ## Material de uso:
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr>
