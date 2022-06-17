@@ -34,6 +34,9 @@
         <a href="#prototipo-de-pulsera-multiusos">Prototipo de Pulsera Multiusos</a>
     </li>
     <li>
+        <a href="#tablero">Tablero</a>
+    </li>
+    <li>
       <a href="#participantes">Participantes</a>
     </li>
   </ol>
