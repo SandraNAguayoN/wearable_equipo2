@@ -36,7 +36,6 @@
 > 
 
 ### Material de uso:
-
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr>
   <tr>
     <td>Raspberry Pi 4</td>
@@ -81,34 +80,8 @@
 
 </table>
 
-#### Requerimientos
-<table>
-  <tr>
-    <th>No.</th>
-      <th>Requerimiento</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Medición de variables a partir de sensores de temperatura, humedad.</td>
-  </tr>
-  
-  <tr>
-    <td>2</td>
-    <td>Almacenamiento de datos de manera continua y permanente.</td>
-  </tr>
-  
-  <tr>
-    <td>3</td>
-    <td>Mostrar los datos en una panta OLED</td>
-  </tr>
-  
-  <tr>
-    <td>3</td>
-    <td>Captura de foto y almacenarlas de manera local</td>
-  </tr>
-</table>
 
-
+### Épicas
 <p>Pulsera de uso personal con multiples funciones que recopilan información relevante para el usuario.</p>
 <p>Esta contendrá las siguientes funcionalidades:</p>
 <ol>
@@ -141,15 +114,39 @@
 
 
 
+#### Requerimientos
+<table>
+  <tr>
+    <th>No.</th>
+      <th>Requerimiento</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Medición de variables a partir de sensores de temperatura, humedad.</td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>Almacenamiento de datos de manera continua y permanente.</td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>Mostrar los datos en una panta OLED</td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>Captura de foto y almacenarlas de manera local</td>
+  </tr>
+</table>
 
 
 ### Diagrama inicial
-
 <img width="418" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/66137245/173940027-4eca0c9a-6b04-4432-b782-c9031561b253.png">
 
 
 ### Prototipo de Pulsera Multiusos
-
 ![Prototipo_Pulsera Multiusos](https://user-images.githubusercontent.com/66137245/173940626-04c02b57-fbf7-4492-ba3c-018ed4d66c6d.jpg)
 
 
