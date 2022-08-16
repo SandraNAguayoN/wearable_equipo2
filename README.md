@@ -193,7 +193,7 @@
 
 
 ## Diagrama (Arquitectura)
-<img width="700" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/diagrama.png">
+<img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/diagrama.png">
 
 
 ## Prototipo de Pulsera Multiusos
