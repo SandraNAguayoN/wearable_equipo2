@@ -200,8 +200,13 @@
 ![Prototipo_Pulsera Multiusos](https://user-images.githubusercontent.com/66137245/173940626-04c02b57-fbf7-4492-ba3c-018ed4d66c6d.jpg)
 
 ## Tablero
-![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero.png)
 https://trello.com/b/qvzCt7Np/pulsera-multiusos
+###Sprint 1
+![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint1.png)
+###Sprint 2
+![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint2.png)
+###Sprint 3
+![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint3.png)
 
 ## Participantes
 * [Aguayo Nuñez Sandra ]()
