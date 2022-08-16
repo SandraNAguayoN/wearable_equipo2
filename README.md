@@ -58,15 +58,7 @@
 > Nuestra visión llegar a ser una empresa líder en la fabricación y distribución de accesorios tecnológicos de uso personal a nivel regional en el municipio de Dolores Hidalgo para después expandirnos a nivel estatal en el estado de Guanajuato y por consecuencia a nivel nacional ne México.
 
 ## Material de uso:
-<table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr>
-  <tr>
-    <td>Raspberry Pi 4</td>
-    <td>
-    <img src="https://user-images.githubusercontent.com/36056832/165995675-da53df0d-9c67-46af-94e3-22f30ad2aa4d.png" alt="Raspberry Pi 4" width="100"/>
-    </td>
-     <td><ul><li>Raspberry Pi 4 Modelo B 8GB RAM Original Uk.<li>Memoria microSD 32GB Clase 10 A1 con adaptador.<li>Cable microHDMI a HDMI 1.5m.<li>Carcasa con soporte para ventilador.<li>Ventilador 5VDC con tornillos y tuercas.<li>Fuente 5V 3A USB-C con Switch On/Off.<li>Kit de disipadores de calor cobre y aluminio con cinta térmica adherible.</ul></td>
-    <td>1</td>
-  </tr> 
+<table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr> 
   <tr>
     <td>ESP32 Cam</td>
     <td>
@@ -105,6 +97,26 @@
     <img src="https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png" width="100"/>
     </td>
       <td> <ul><li>Voltaje de funcionamiento: 5V(DC)</li><li>Corriente estática: menos de 2 mA.</li><li>Señal: señal de frecuencia eléctrica, alto nivel 5V, 0V de nivel bajo.</li><li>Ángulo sensor: no más de 15 grados.</li><li>Distancia detección: 2cm ~ 450cm.</li>Alta precisión: hasta 3mm</li><li>Modo de conexión: VCC / trig(T) / echo(R) / GND</li><li>Módulo Principio de trabajo:</li><li>El módulo automáticamente envia una onda cuadrada de 40khz y detecta automáticamente la señal de pulso que regresa.</li></ul></td>
+    <td>1</td>
+  </tr> 
+  <tr>
+    <td>Buzzer</td>
+    <td>
+    <img src="https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png" width="100"/>
+    </td>
+      <td><ul><li>Voltaje: 3.5 - 5 V</li><li>Corriente: <25mA</li><li>Frecuencia: 500-2300 Hz</li><li>Tono: Constante<li>Diámetro: 16mm</li><li>Altura: 10mm</li>
+        </ul>
+      </td>
+    <td>1</td>
+  </tr> 
+  <tr>
+    <td>Push button 4 pines con capuchon</td>
+    <td>
+    <img src="https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png" width="100"/>
+    </td>
+      <td><ul><li>Para 50 mA de corriente</li><li>12 mm x 12 mm</li>
+        </ul>
+      </td>
     <td>1</td>
   </tr> 
 
