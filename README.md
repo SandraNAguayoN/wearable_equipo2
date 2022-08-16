@@ -201,11 +201,11 @@
 
 ## Tablero
 https://trello.com/b/qvzCt7Np/pulsera-multiusos
-###Sprint 1
+### Sprint 1
 ![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint1.png)
-###Sprint 2
+### Sprint 2
 ![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint2.png)
-###Sprint 3
+### Sprint 3
 ![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint3.png)
 
 ## Participantes
