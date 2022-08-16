@@ -87,7 +87,7 @@
     <td>1</td>
   </tr> 
   <tr>
-    <td>Sensor de Oxigenación </td>
+    <td>Max30102 Sensor Heart Rate Y Oxigeno</td>
     <td>
     <img src="https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png" width="100"/>
     </td>
