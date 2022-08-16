@@ -94,7 +94,7 @@
     <tr>
     <td>Sensor Ultrasonico </td>
     <td>
-    <img src="https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png" width="100"/>
+    <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/button.jpg" width="100"/>
     </td>
       <td> <ul><li>Voltaje de funcionamiento: 5V(DC)</li><li>Corriente estática: menos de 2 mA.</li><li>Señal: señal de frecuencia eléctrica, alto nivel 5V, 0V de nivel bajo.</li><li>Ángulo sensor: no más de 15 grados.</li><li>Distancia detección: 2cm ~ 450cm.</li>Alta precisión: hasta 3mm</li><li>Modo de conexión: VCC / trig(T) / echo(R) / GND</li><li>Módulo Principio de trabajo:</li><li>El módulo automáticamente envia una onda cuadrada de 40khz y detecta automáticamente la señal de pulso que regresa.</li></ul></td>
     <td>1</td>
@@ -102,7 +102,7 @@
   <tr>
     <td>Buzzer</td>
     <td>
-    <img src="https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png" width="100"/>
+    <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/buzzer.png" width="100"/>
     </td>
       <td><ul><li>Voltaje: 3.5 - 5 V</li><li>Corriente: <25mA</li><li>Frecuencia: 500-2300 Hz</li><li>Tono: Constante<li>Diámetro: 16mm</li><li>Altura: 10mm</li>
         </ul>
@@ -112,7 +112,7 @@
   <tr>
     <td>Push button 4 pines con capuchon</td>
     <td>
-    <img src="https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png" width="100"/>
+    <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/button.webp" width="100"/>
     </td>
       <td><ul><li>Para 50 mA de corriente</li><li>12 mm x 12 mm</li>
         </ul>
