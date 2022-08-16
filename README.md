@@ -95,7 +95,7 @@
     <td>1</td>
   </tr> 
     <tr>
-    <td>Sensor Ultrasonico </td>
+    <td>Sensor Ultrasonico Hc-sr04 Arduino</td>
     <td>
     <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/ultrasonico.jpg" width="100"/>
     </td>
@@ -103,7 +103,7 @@
     <td>1</td>
   </tr> 
   <tr>
-    <td>Buzzer</td>
+    <td>Buzzer Zumbador Activo 5v Sonido Constante</td>
     <td>
     <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/buzzer.png" width="100"/>
     </td>
