@@ -94,7 +94,7 @@
     <tr>
     <td>Sensor Ultrasonico </td>
     <td>
-    <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/button.jpg" width="100"/>
+    <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/ultrasonico.jpg" width="100"/>
     </td>
       <td> <ul><li>Voltaje de funcionamiento: 5V(DC)</li><li>Corriente estática: menos de 2 mA.</li><li>Señal: señal de frecuencia eléctrica, alto nivel 5V, 0V de nivel bajo.</li><li>Ángulo sensor: no más de 15 grados.</li><li>Distancia detección: 2cm ~ 450cm.</li>Alta precisión: hasta 3mm</li><li>Modo de conexión: VCC / trig(T) / echo(R) / GND</li><li>Módulo Principio de trabajo:</li><li>El módulo automáticamente envia una onda cuadrada de 40khz y detecta automáticamente la señal de pulso que regresa.</li></ul></td>
     <td>1</td>
@@ -200,6 +200,7 @@
 ![Prototipo_Pulsera Multiusos](https://user-images.githubusercontent.com/66137245/173940626-04c02b57-fbf7-4492-ba3c-018ed4d66c6d.jpg)
 
 ## Tablero
+![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero.png)
 https://trello.com/b/qvzCt7Np/pulsera-multiusos
 
 ## Participantes
