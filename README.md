@@ -117,26 +117,34 @@
 <ol>
   <li>Detección de temperatura y humedad.</li>
     <ul>
-      <li>Medida de temperatura y humedad con el sensor</li>
+       <li>Mostrar datos capturados en pantalla OLED.</li>
       <li>Guardado de datos en Base de Datos.</li>
       <li>Desarrollo de aplicación web para mostrar datos.</li>
       <li>Mostrar datos en la aplicación.</li>
+      <li>Alerta de sonido de buzzer ante altas o bajas temperaturas detectadas.</li>
     </ul>
   <li>Camara portable.</li>
     <ul>
       <li>Captura de imagen con cámara.</li>
       <li>Captura de archivo en formato de imagen.</li>
-      <li>Guardado de archivo en Memoria Micro SD.</li>
+      <li>Guardado de archivo en cuenta de Google Drive.</li>
     </ul>
   <li>Pantalla OLED.</li>
     <ul>
       <li>Mostrar de datos obtenidos del sensor en pantalla.</li>
       <li>Mostrar imágenes en pantalla (opcional).</li>
     </ul>
-  <li>Detección de oxigenación en la sangre.</li>
+  <li>Ritmo cardiaco.</li>
       <ul>
-        <li>Detección de oxígeno en la sangre con sensor.</li>
+        <li>Mostrar datos capturados en pantalla OLED.</li>
         <li>Guardado de datos en Base de Datos.</li>
+      <li>Desarrollo de aplicación web para mostrar datos.</li>
+      <li>Mostrar datos en la aplicación.</li>
+    </ul>
+        <li>Detección de distancia.</li>
+    <ul>
+      <li>Mostrar datos capturados en pantalla OLED.</li>
+      <li>Guardado de datos en Base de Datos.</li>
       <li>Desarrollo de aplicación web para mostrar datos.</li>
       <li>Mostrar datos en la aplicación.</li>
     </ul>
