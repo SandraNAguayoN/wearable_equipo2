@@ -209,7 +209,7 @@
   
   <tr>
     <td>3</td>
-    <td>Captura de foto y almacenarlas de manera local</td>
+    <td>Captura de foto y almacenarlas en la nube</td>
   </tr>
 </table>
 
@@ -219,7 +219,7 @@
 
 
 ## Prototipo de Pulsera Multiusos
-![Prototipo_Pulsera Multiusos](https://user-images.githubusercontent.com/66137245/173940626-04c02b57-fbf7-4492-ba3c-018ed4d66c6d.jpg)
+![Prototipo_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/dibujo_prototipo.jpg)
 
 ## Tablero
 https://trello.com/b/qvzCt7Np/pulsera-multiusos
