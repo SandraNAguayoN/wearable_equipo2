@@ -37,6 +37,9 @@
         <a href="#tablero">Tablero</a>
     </li>
     <li>
+        <a href="#resultados">Resultados</a>
+    </li>
+    <li>
       <a href="#participantes">Participantes</a>
     </li>
   </ol>
@@ -207,6 +210,8 @@ https://trello.com/b/qvzCt7Np/pulsera-multiusos
 ![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint2.png)
 ### Sprint 3
 ![Tablero_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint3.png)
+
+## Resultados
 
 ## Participantes
 * [Aguayo Nuñez Sandra ]()
