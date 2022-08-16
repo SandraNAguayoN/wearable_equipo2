@@ -60,7 +60,26 @@
 ## Visión del proyecto
 > Nuestra visión llegar a ser una empresa líder en la fabricación y distribución de accesorios tecnológicos de uso personal a nivel regional en el municipio de Dolores Hidalgo para después expandirnos a nivel estatal en el estado de Guanajuato y por consecuencia a nivel nacional ne México.
 
-## Material de uso:
+## Librerias
+* Adafruit_GFX.h
+* Adafruit_SSD1306.h
+* DHTesp.h
+* EasyBuzzer.h
+* Esp_camera.h
+* FirebaseESP32.h
+* HeartRate.h
+* MAX30105.h
+* Pgmspace.h
+* Soc.h
+* WiFiClientSecure.h
+* WiFi.h
+
+## Software
+* Arduino
+* Api Firebase
+* Google script
+
+## Hardware:
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr> 
   <tr>
     <td>ESP32 Cam</td>
@@ -87,7 +106,7 @@
     <td>1</td>
   </tr> 
   <tr>
-    <td>Max30102 Sensor Heart Rate Y Oxigeno</td>
+    <td>Sensor de Oxigenación </td>
     <td>
     <img src="https://user-images.githubusercontent.com/28987470/173898515-e6732d31-cfe5-423a-88eb-f6b3a6c00c00.png" width="100"/>
     </td>
@@ -95,7 +114,7 @@
     <td>1</td>
   </tr> 
     <tr>
-    <td>Sensor Ultrasonico Hc-sr04 Arduino</td>
+    <td>Sensor Ultrasonico </td>
     <td>
     <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/ultrasonico.jpg" width="100"/>
     </td>
@@ -103,7 +122,7 @@
     <td>1</td>
   </tr> 
   <tr>
-    <td>Buzzer Zumbador Activo 5v Sonido Constante</td>
+    <td>Buzzer</td>
     <td>
     <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/buzzer.png" width="100"/>
     </td>
