@@ -74,6 +74,37 @@
 * WiFiClientSecure.h
 * WiFi.h
 
+## Requerimientos
+<table>
+  <tr>
+    <th>Software</th>
+      <th>Licencia</th>
+  </tr>
+  <tr>
+    <td>Arduino</td>
+    <td>Licencia Pública General</td>
+  </tr>
+  
+  <tr>
+    <td>Firebase</td>
+    <td>modelo de precios de pago por uso.  
+      <ul>
+        <li>Almacenamiento en base de datos $0.18 por GB</li>
+        <li>Almacenamiento $0.026 por GB </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Google Drive</td>
+    <td>
+      <ul>
+        <li>Licencia gratuita</li>
+        <li>Planes de pago</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ## Software
 * Arduino
 * Api Firebase
