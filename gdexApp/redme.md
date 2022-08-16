@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\ramir\OneDrive\Documentos\escuela\tacho\espprueba32-firebase-adminsdk-2tp9l-82128bcbbe.json"

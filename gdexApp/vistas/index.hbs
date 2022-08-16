@@ -1,0 +1,108 @@
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+       
+        <div class="d-flex botones">
+            <a href="/galeria" class="enlace">Galeria</a>
+            <a href="#" class="enlace">Datos</a>
+        </div>
+    </div>
+</nav>
+<main>
+
+    <div name="cartas" class="cartas">
+
+
+    </div>
+    <div class="tempBuzzer">
+        <div class="card centrar" style="width: 18rem;">
+
+            <div class="card-body">
+                <form action="/temMay" class="centrar" method="POST">
+                    <h5 class="card-title">Temperatura Mayor</h5>
+                    <input type="text" class="inputB" name="mayor" placeholder="Ingrese nuevo dato">
+                    <input type="submit" class="btn btn-success inputB" value="Guardar">
+                    <div>
+                        Dato actual:
+                        <div name="actualMayor"></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+
+            <div class="card-body">
+                <form action="/temMen" method="POST" class="centrar">
+                    <h5 class="card-title">Temperatura Minima</h5>
+                    <input type="number" class="inputB" name="menor" placeholder="Ingrese nuevo dato">
+                    <input type="submit"  class=" inputB btn btn-success" value="Guardar">
+                    <div>
+                        Dato actual:
+                        <div name="actualMenor"></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</main>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+    var intevalo = setInterval('cargardatos()', 1000);
+
+
+
+
+    const divCartas = document.querySelector('div[name="cartas"]');
+    const divMin = document.querySelector('div[name="actualMenor"]');
+    const divMay = document.querySelector('div[name="actualMayor"]');
+
+    
+
+    function cargardatos() {
+         $.ajax({
+            type: 'GET',
+            url: '/datosMinMay'
+        }).done(function (data2) {
+            divMin.innerHTML = "";
+            divMin.innerHTML += data2.Menor;
+            divMay.innerHTML = "";
+            divMay.innerHTML += data2.Mayor;
+        })
+
+        $.ajax({
+            type: 'GET',
+            url: '/datos'
+        }).done(function (data) {
+            divCartas.innerHTML = ""
+            divCartas.innerHTML += (`<div class="card" >
+
+            <div class="card-body">
+                <h5 class="card-title">Temperatura</h5>
+                <p class="texto">`+ data.temp + `  C°</p>
+            </div>
+        </div>
+        <div class="card" >
+
+            <div class="card-body">
+                <h5 class="card-title">Humedad</h5>
+                <p class="texto">` + data.hume + `  </p>
+            </div>
+        </div>
+        <div class="card" >
+
+            <div class="card-body">
+                <h5 class="card-title">Distancia</h5>
+                <p class="texto">` + data.distancia + `  cm</p>
+            </div>
+        </div>
+        <div class="card" >
+
+            <div class="card-body">
+                <h5 class="card-title">BPS</h5>
+                <p class="texto">` + data.BPS + ` bpm</p>
+            </div>
+        </div>`)
+        });
+    }
+</script>
