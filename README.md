@@ -37,7 +37,7 @@
         <a href="#diagrama-inicial">Diagrama (Arquitectura)</a>
     </li>
     <li>
-        <a href="#prototipo-de-pulsera-multiusos">Prototipo de Pulsera Multiusos</a>
+        <a href="#prototipo-de-pulsera-multiusos">Prototipo Inicial de Pulsera Multiusos</a>
     </li>
     <li>
         <a href="#tablero">Tablero</a>
@@ -256,7 +256,7 @@
 <img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/diagrama.png">
 
 <br><br><br>
-## Prototipo de Pulsera Multiusos
+## Prototipo Inicial de Pulsera Multiusos
 ![Prototipo_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/dibujo_prototipo.jpg)
 
 <br><br><br>
