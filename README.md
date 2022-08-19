@@ -45,6 +45,8 @@
   </ol>
 </details>
 
+<br><br><br>
+
 <!-- Acerca del proyecto -->
 ## Acerca del proyecto
 
@@ -60,6 +62,7 @@
 ## Visión del proyecto
 > Nuestra visión llegar a ser una empresa líder en la fabricación y distribución de accesorios tecnológicos de uso personal a nivel regional en el municipio de Dolores Hidalgo para después expandirnos a nivel estatal en el estado de Guanajuato y por consecuencia a nivel nacional ne México.
 
+<br><br><br>
 ## Librerias
 * Adafruit_GFX.h
 * Adafruit_SSD1306.h
@@ -74,6 +77,7 @@
 * WiFiClientSecure.h
 * WiFi.h
 
+<br><br><br>
 ## Requerimientos
 <table>
   <tr>
@@ -105,11 +109,14 @@
     </td>
   </tr>
 </table>
+
+<br><br><br>
 ## Software
 * Arduino
 * Api Firebase
 * Google script
 
+<br><br><br>
 ## Hardware:
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr> 
   <tr>
@@ -175,7 +182,7 @@
 
 </table>
 
-
+<br><br><br>
 ## Épicas
 <p>Pulsera de uso personal con multiples funciones que recopilan información relevante para el usuario.</p>
 <p>Esta contendrá las siguientes funcionalidades:</p>
@@ -216,7 +223,7 @@
 </ol>
 
 
-
+<br><br><br>
 ## Requerimientos
 <table>
   <tr>
@@ -244,14 +251,15 @@
   </tr>
 </table>
 
-
+<br><br><br>
 ## Diagrama (Arquitectura)
 <img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/diagrama.png">
 
-
+<br><br><br>
 ## Prototipo de Pulsera Multiusos
 ![Prototipo_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/dibujo_prototipo.jpg)
 
+<br><br><br>
 ## Tablero
 https://trello.com/b/qvzCt7Np/pulsera-multiusos
 ### Sprint 1
@@ -271,6 +279,7 @@ https://trello.com/b/qvzCt7Np/pulsera-multiusos
 ![6](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/6.jpg)
 VIDEO: 
 
+<br><br><br>
 ## Participantes
 * [Aguayo Nuñez Sandra ]()
 * [Godínez Torres Juan Ramiro]()
