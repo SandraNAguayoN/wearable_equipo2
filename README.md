@@ -278,7 +278,7 @@ https://trello.com/b/qvzCt7Np/pulsera-multiusos
 ![5](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/5.jpg)
 ![6](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/6.jpg)
 VIDEO: 
-* [https://drive.google.com/file/d/1DMSrIPW9O3vjELstzG6CJtdTaBbyx1O-/view]()
+[https://drive.google.com/file/d/1DMSrIPW9O3vjELstzG6CJtdTaBbyx1O-/view]()
 
 <br><br><br>
 ## Participantes
