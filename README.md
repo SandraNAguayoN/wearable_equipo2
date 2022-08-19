@@ -34,7 +34,7 @@
         <a href="#requerimientos">Requerimientos</a>
     </li>
     <li>
-        <a href="#diagrama-inicial">Diagrama inicial</a>
+        <a href="#diagrama-inicial">Diagrama (Arquitectura)</a>
     </li>
     <li>
         <a href="#prototipo-de-pulsera-multiusos">Prototipo de Pulsera Multiusos</a>
