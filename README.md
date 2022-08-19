@@ -261,6 +261,7 @@ https://trello.com/b/qvzCt7Np/pulsera-multiusos
 ### Sprint 3
 ![Sprint3](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint3.png)
 
+<br><br><br>
 ## Resultados
 ![1](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/1.jpg)
 ![2](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/2.jpg)
