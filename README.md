@@ -18,8 +18,14 @@
     <li>
         <a href="#vision-del-proyecto">Visión del proyecto</a>
     </li>
+        <li>
+        <a href="#librerias">Librerías</a>
+    </li>
+        <li>
+        <a href="#software">Software</a>
+    </li>
     <li>
-        <a href="#material-de-uso">Material de uso</a>
+        <a href="#hardware">Hardware</a>
     </li>
     <li>
         <a href="#epicas">Épicas</a>
@@ -78,7 +84,7 @@
 * WiFi.h
 
 <br><br><br>
-## Requerimientos
+## Software
 <table>
   <tr>
     <th>Software</th>
@@ -111,13 +117,7 @@
 </table>
 
 <br><br><br>
-## Software
-* Arduino
-* Api Firebase
-* Google script
-
-<br><br><br>
-## Hardware:
+## Hardware
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr> 
   <tr>
     <td>ESP32 Cam</td>
