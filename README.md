@@ -262,7 +262,13 @@ https://trello.com/b/qvzCt7Np/pulsera-multiusos
 ![Sprint3](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/tablero_sprint3.png)
 
 ## Resultados
-VIDEO: https://drive.google.com/file/d/1Ioya-nBlbIvKEaiz-HuYXzhivvYoIGra/view?usp=sharing
+![1](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/1.jpg)
+![2](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/2.jpg)
+![3](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/3.jpg)
+![4](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/4.jpg)
+![5](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/5.jpg)
+![6](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/6.jpg)
+VIDEO: 
 
 ## Participantes
 * [Aguayo Nuñez Sandra ]()
