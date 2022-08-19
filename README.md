@@ -69,7 +69,7 @@
 > Nuestra visión llegar a ser una empresa líder en la fabricación y distribución de accesorios tecnológicos de uso personal a nivel regional en el municipio de Dolores Hidalgo para después expandirnos a nivel estatal en el estado de Guanajuato y por consecuencia a nivel nacional ne México.
 
 <br><br><br>
-## Librerias
+## Librerías
 * Adafruit_GFX.h
 * Adafruit_SSD1306.h
 * DHTesp.h
@@ -97,7 +97,7 @@
   
   <tr>
     <td>Firebase</td>
-    <td>modelo de precios de pago por uso.  
+    <td>Modelo de precios de pago por uso.  
       <ul>
         <li>Almacenamiento en base de datos $0.18 por GB</li>
         <li>Almacenamiento $0.026 por GB </li>
